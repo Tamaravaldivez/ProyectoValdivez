@@ -166,7 +166,7 @@ align-items: center;}
 
 /*responsive*/
 
-@media (max-width:700px){
+@media (max-width:768px){
     body{
         display: grid;
         grid-template-columns: 160px 1fr;
